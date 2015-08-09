@@ -1,1 +1,1 @@
-{"version":3,"sources":["app-layout.scss"],"names":[],"mappings":"AAAA,CAAC,CAAC;EACA,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CAAE,GAFV","file":"bundle.css","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n}\n"],"sourceRoot":"/source/"}
+{"version":3,"sources":["app-layout.scss"],"names":[],"mappings":"AAAA,CAAC,CAAC;EACA,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CAAE,GAFV","file":"bundle.css","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n\n}"],"sourceRoot":"/source/"}

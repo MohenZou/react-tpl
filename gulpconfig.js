@@ -13,5 +13,13 @@ module.exports = {
       bundleFileName: 'bundle.js',
       dest: 'lib/js'
     }
+  },
+  watch: {
+    sass: [
+      './src/sass/*.scss'
+    ],
+    js: [
+      './src/js/**/*.js'
+    ]
   }
 };
